@@ -1,0 +1,10 @@
+﻿cenario;indicador;valor_simulado;observacao
+FTP;tentativas;5;Lista curta hipotética
+FTP;autenticacoes_aceitas;1;Resultado fictício
+FTP;autenticacoes_recusadas;4;Resultado fictício
+DVWA sem controles;tentativas;10;Cenário hipotético
+DVWA sem controles;acesso_de_teste;1;Resultado fictício
+DVWA com controles;tentativas;10;Cenário hipotético
+DVWA com controles;acesso_de_teste;0;Resultado fictício
+SMB;contas_consideradas;4;Contas fictícias
+SMB;contas_com_credencial_fraca;1;Resultado fictício
