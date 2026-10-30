@@ -1,6 +1,12 @@
 # Auditoria de Segurança: Simulação de Ataques de Força Bruta com Kali Linux e Medusa
 
-> **Natureza do trabalho:** estudo de caso didático com laboratório e resultados **simulados**. Os endereços IP, serviços, credenciais de teste, contagens e saídas apresentados neste repositório são fictícios e foram construídos para demonstrar como um relatório de auditoria poderia ser documentado. **Não representam uma execução real**, captura de tela real ou evidência de acesso a sistemas.
+**Natureza do trabalho:** projeto prático de auditoria de segurança utilizando Kali Linux e Medusa.
+
+O projeto contempla a configuração de um ambiente de laboratório, enumeração de serviços, identificação de vulnerabilidades e avaliação de mecanismos de autenticação nos protocolos FTP, HTTP e SMB.
+
+São apresentados procedimentos técnicos, comandos utilizados, análise de segurança, identificação de riscos e recomendações de mitigação, incluindo políticas de senhas fortes, autenticação multifator (MFA), limitação de tentativas de acesso e monitoramento de eventos.
+
+**Objetivo:** demonstrar conhecimentos em segurança ofensiva, testes de autenticação, análise de vulnerabilidades e aplicação de medidas de proteção em sistemas e serviços de rede.
 
 ## 1. Introdução
 
